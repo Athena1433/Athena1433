@@ -54,6 +54,5 @@
     <a href="http://t.me/FaithfulKitten" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
     <a href="https://discordapp.com/users/498354230206267414"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""></a>
     <a href="https://open.spotify.com/user/31bwtxh2jd6ice4gdmhrqhje5zca"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
-    <a href="https://mydramalist.com/profile/athena1433/"><img src="https://play-lh.googleusercontent.com/3R4kegdGNACg5ZLLMDLdbrGPvyCiNLMkDxwplgba2SRy48zwmo-EWeQ0HCEI9I7-IhM" alt="" srcset=""></a>
 <br>
 <br>
