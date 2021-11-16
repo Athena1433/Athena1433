@@ -1,4 +1,4 @@
-<h1>Annyong, I'm Athena 👋</h1>
+<h1>Hai wǒ shì Athena 👋</h1>
 <p>I'm a third year BTech Computer Science Student <strong>I dont have a specific area of intrest..It changes Frequently 😅 </strong></p>
 <div align="left">
     <a href="https://t.me/FaithfulKitten"><img src="https://img.shields.io/badge/@FaithfulKitten-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
@@ -9,11 +9,10 @@
 <a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://0.soompi.io/wp-content/uploads/2016/12/18215351/funny1.gif" style="right:0px" /></a>
 
 <ul>
-    <li>🧐 Trying to learn about <strong>Flutter</strong>, <strong>React</strong></li>
+    <li>🧐 Trying to learn <strong>React</strong></li>
     <li>👨‍💻 Private repos are where all the fun happens...</li>
     <li>📺 I love <b>watching Asian Dramas</b>.</li>
     <li>💬 I mostly use <strong><a href="http://telegram.dog/FaithfulKitten" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
-    <li><strong>날 따라오지 마 쓸모없어 😁</strong></li>
 </ul>
 
 <h2 id=lang>Languages / Frameworks/ Tools</h2>
