@@ -6,7 +6,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <br>
-<a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://s1.gifyu.com/images/69f72787208bea8d8fafcff8c77f67967a17e6a5_00.gif" style="right:0px" /></a>
+<a href="https://github.com"><img align="right" height="auto" width="40%" src="https://s1.gifyu.com/images/69f72787208bea8d8fafcff8c77f67967a17e6a5_00.gif" style="right:0px" /></a>
 
 <ul>
     <li>🧐 Trying to learn <strong>React</strong></li>
