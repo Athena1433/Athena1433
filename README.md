@@ -6,7 +6,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <br>
-<a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://0.soompi.io/wp-content/uploads/2016/12/18215351/funny1.gif" style="right:0px" /></a>
+<a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://telegra.ph/file/799be3a34d065b509b454.mp4" style="right:0px" /></a>
 
 <ul>
     <li>🧐 Trying to learn <strong>React</strong></li>
