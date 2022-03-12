@@ -9,7 +9,7 @@
 <a href="https://github.com"><img align="right" height="auto" width="40%" src="https://0.soompi.io/wp-content/uploads/2016/12/18215351/funny1.gif" style="right:0px" /></a>
 
 <ul>
-    <li>🧐 Trying to learn <strong>React</strong></li>
+    <li>🧐 Trying to learn <strong>nothing atm</strong></li>
     <li>👨‍💻 Private repos are where all the fun happens...</li>
     <li>📺 I love <b>watching Asian Dramas</b>.</li>
     <li>💬 I mostly use <strong><a href="http://telegram.dog/FaithfulKitten" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
