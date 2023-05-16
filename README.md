@@ -5,10 +5,6 @@
   
 
 -  <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!  
-  
-
-- I’m looking to collaborate in an Open Source Project `(newbie)` 🤝  
-  
 
 - <img src="https://media.giphy.com/media/XcwC4EhQCnq4U/giphy.gif" width="30px">&nbsp; Fun-Fact: I've a sweet tooth for pastry and code   
 
