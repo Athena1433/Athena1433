@@ -1,13 +1,4 @@
-### <div align="center">I'm a Third Year Btech Computer Science Student</div>  
-  
-
--  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />Exploring the magic of JavaScript!   
-  
-
--  <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!  
-
-- <img src="https://media.giphy.com/media/XcwC4EhQCnq4U/giphy.gif" width="30px">&nbsp; I've a sweet tooth for pastry and code   
-
+ 
 <h2 id=lang>Languages / Frameworks/ Tools</h2>
 <p>
 <a href="https://www.github.com/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="" srcset=""></a>
